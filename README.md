@@ -30,7 +30,11 @@
 
 ---
 
-## 📂 Folder Structure
+## 🚀 How to Run
+1. Download or clone the repository.
+2. Run `secure-password-generator.py` in Python 3:
+   ```bash
+   python secure-password-generator.py
 ---
 
 ## 🌟 About Me
@@ -39,6 +43,7 @@ This is one of my first Python projects in my **developer journey**. Follow my p
 
 ---
 
-📌 **License:** MIT License  
+📌 **License:** MIT License 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ---
