@@ -31,3 +31,14 @@
 ---
 
 ## 📂 Folder Structure
+---
+
+## 🌟 About Me
+
+This is one of my first Python projects in my **developer journey**. Follow my progress on [GitHub](https://github.com/abhinav-coding/).  
+
+---
+
+📌 **License:** MIT License  
+
+---
